@@ -27,6 +27,9 @@
   recipe2.cookTime = @17.00;
   recipe2.recipeName = @"Falafel";
   recipe2.recipeType = @"Vegan";
+  
+  Recipe *recipeParam = [[Recipe alloc]initWithParameters:@"Birthday Cake" recipetype:@"Dessert" cooktime:@45.00];
+  
 }
 
 - (void)didReceiveMemoryWarning {
