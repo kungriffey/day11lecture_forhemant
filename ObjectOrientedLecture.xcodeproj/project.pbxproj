@@ -14,6 +14,7 @@
 		2A53372C1AE5449000187084 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A53372B1AE5449000187084 /* Images.xcassets */; };
 		2A53372F1AE5449000187084 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2A53372D1AE5449000187084 /* LaunchScreen.xib */; };
 		2A53373B1AE5449000187084 /* ObjectOrientedLectureTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A53373A1AE5449000187084 /* ObjectOrientedLectureTests.m */; };
+		2A5337471AE5471400187084 /* Recipe.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A5337461AE5471400187084 /* Recipe.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		2A5337341AE5449000187084 /* ObjectOrientedLectureTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ObjectOrientedLectureTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A5337391AE5449000187084 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2A53373A1AE5449000187084 /* ObjectOrientedLectureTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ObjectOrientedLectureTests.m; sourceTree = "<group>"; };
+		2A5337451AE5471400187084 /* Recipe.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Recipe.h; sourceTree = "<group>"; };
+		2A5337461AE5471400187084 /* Recipe.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Recipe.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +66,7 @@
 		2A5337121AE5449000187084 = {
 			isa = PBXGroup;
 			children = (
+				2A5337441AE544C100187084 /* Model */,
 				2A53371D1AE5449000187084 /* ObjectOrientedLecture */,
 				2A5337371AE5449000187084 /* ObjectOrientedLectureTests */,
 				2A53371C1AE5449000187084 /* Products */,
@@ -117,6 +121,15 @@
 				2A5337391AE5449000187084 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		2A5337441AE544C100187084 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				2A5337451AE5471400187084 /* Recipe.h */,
+				2A5337461AE5471400187084 /* Recipe.m */,
+			);
+			name = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -222,6 +235,7 @@
 				2A5337271AE5449000187084 /* ViewController.m in Sources */,
 				2A5337241AE5449000187084 /* AppDelegate.m in Sources */,
 				2A5337211AE5449000187084 /* main.m in Sources */,
+				2A5337471AE5471400187084 /* Recipe.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
