@@ -15,6 +15,7 @@
 		2A53372F1AE5449000187084 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2A53372D1AE5449000187084 /* LaunchScreen.xib */; };
 		2A53373B1AE5449000187084 /* ObjectOrientedLectureTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A53373A1AE5449000187084 /* ObjectOrientedLectureTests.m */; };
 		2A5337471AE5471400187084 /* Recipe.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A5337461AE5471400187084 /* Recipe.m */; };
+		E9848ED61AE54AAC003A8D35 /* RecipesPropertyList.plist in Resources */ = {isa = PBXBuildFile; fileRef = E9848ED51AE54AAC003A8D35 /* RecipesPropertyList.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,7 @@
 		2A53373A1AE5449000187084 /* ObjectOrientedLectureTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ObjectOrientedLectureTests.m; sourceTree = "<group>"; };
 		2A5337451AE5471400187084 /* Recipe.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Recipe.h; sourceTree = "<group>"; };
 		2A5337461AE5471400187084 /* Recipe.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Recipe.m; sourceTree = "<group>"; };
+		E9848ED51AE54AAC003A8D35 /* RecipesPropertyList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = RecipesPropertyList.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 		2A5337121AE5449000187084 = {
 			isa = PBXGroup;
 			children = (
+				E9848ED51AE54AAC003A8D35 /* RecipesPropertyList.plist */,
 				2A5337441AE544C100187084 /* Model */,
 				2A53371D1AE5449000187084 /* ObjectOrientedLecture */,
 				2A5337371AE5449000187084 /* ObjectOrientedLectureTests */,
@@ -215,6 +218,7 @@
 				2A53372A1AE5449000187084 /* Main.storyboard in Resources */,
 				2A53372F1AE5449000187084 /* LaunchScreen.xib in Resources */,
 				2A53372C1AE5449000187084 /* Images.xcassets in Resources */,
+				E9848ED61AE54AAC003A8D35 /* RecipesPropertyList.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -430,6 +434,7 @@
 				2A5337401AE5449000187084 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2A5337411AE5449000187084 /* Build configuration list for PBXNativeTarget "ObjectOrientedLectureTests" */ = {
 			isa = XCConfigurationList;
@@ -438,6 +443,7 @@
 				2A5337431AE5449000187084 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
