@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BB21931D-E6C8-49BD-8344-B3C08DCDEA22</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ObjectOrientedLecture</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>42D3362E85A499AAB21D44F1ACBD61DA9BA76EE4</key>
+		<string>https://github.com/hvtor/day11lecture_forhemant.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ObjectOrientedLecture.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>42D3362E85A499AAB21D44F1ACBD61DA9BA76EE4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hvtor/day11lecture_forhemant.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>42D3362E85A499AAB21D44F1ACBD61DA9BA76EE4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>42D3362E85A499AAB21D44F1ACBD61DA9BA76EE4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>day11lecture_forhemant</string>
+		</dict>
+	</array>
+</dict>
+</plist>
