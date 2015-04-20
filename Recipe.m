@@ -25,5 +25,19 @@
   return  self;
 }
 
+- (instancetype)initWithParameters:(NSString *)aName recipetype:(NSString *)aType cooktime:(NSNumber *)aPrepTime {
+  
+  self = [super init];
+  if (self) {
+    //custom initializer with parameters list
+    self.recipeName = aName;
+    self.recipeType = aType;
+    self.cookTime = aPrepTime;
+    
+  }
+  
+  return self;
+}
+
 
 @end
