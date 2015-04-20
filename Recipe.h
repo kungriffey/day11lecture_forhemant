@@ -10,7 +10,7 @@
 
 @interface Recipe : NSObject
 
-
+//Base foundation for all recipes
 @property (strong, nonatomic) NSString *recipeName;
 @property (strong, nonatomic) NSString *recipeType;
 @property (strong, nonatomic) NSNumber *cookTime;
