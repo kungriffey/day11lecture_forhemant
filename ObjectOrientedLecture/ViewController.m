@@ -26,7 +26,7 @@
   Recipe *recipe2 = [[Recipe alloc]init];
   recipe2.cookTime = @17.00;
   recipe2.recipeName = @"Falafel";
-  recipe2.recipeType = "Vegan";
+  recipe2.recipeType = @"Vegan";
 }
 
 - (void)didReceiveMemoryWarning {

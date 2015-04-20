@@ -5,23 +5,23 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>BB21931D-E6C8-49BD-8344-B3C08DCDEA22</string>
+	<string>4101F1B6-D946-4D65-9683-805C96D85884</string>
 	<key>IDESourceControlProjectName</key>
-	<string>ObjectOrientedLecture</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>42D3362E85A499AAB21D44F1ACBD61DA9BA76EE4</key>
-		<string>https://github.com/hvtor/day11lecture_forhemant.git</string>
+		<string>https://github.com/kungriffey/day11lecture_forhemant.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>ObjectOrientedLecture.xcodeproj</string>
+	<string>ObjectOrientedLecture.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>42D3362E85A499AAB21D44F1ACBD61DA9BA76EE4</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/hvtor/day11lecture_forhemant.git</string>
+	<string>https://github.com/kungriffey/day11lecture_forhemant.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
@@ -34,7 +34,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>42D3362E85A499AAB21D44F1ACBD61DA9BA76EE4</string>
 			<key>IDESourceControlWCCName</key>
-			<string>day11lecture_forhemant</string>
+			<string>ObjectOrientedLecture</string>
 		</dict>
 	</array>
 </dict>
