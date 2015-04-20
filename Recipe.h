@@ -15,4 +15,7 @@
 @property (strong, nonatomic) NSString *recipeType;
 @property (strong, nonatomic) NSNumber *cookTime;
 
+- (instancetype)initWithParameters:(NSString*) aName recipetype:(NSString *) aType cooktime:(NSNumber *) aPrepTime;
+
+
 @end
